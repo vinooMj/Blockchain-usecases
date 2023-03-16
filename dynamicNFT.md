@@ -9,7 +9,7 @@ Dynamic NFT Applications:
 
 If blockchain-based identity becomes a reality, dynamic NFTs may actually be used to represent digital identity cards or passports around the world. The flexibility 
 of these NFTs would allow changes to be updated automatically without digital identity documents needing replacement. 
-This can include details like place of residence, marital status, and contact details.
+This can include details like place of residence, marital status, and contact details..
 
 2/ Gaming
 
